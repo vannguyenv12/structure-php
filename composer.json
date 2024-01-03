@@ -1,0 +1,16 @@
+{
+  "name": "vannguyenv12/workopia-php",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Van Nguyen",
+      "email": "npnv.vn1@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
